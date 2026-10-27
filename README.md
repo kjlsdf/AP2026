@@ -1,4 +1,5 @@
-PR (Pull Request) 手順
+PR (Pull Request) 手順    * PRとは「受け入れ申請」とでも訳すべき手順。自己の作成したコードや文書を全体システムに組み込むことを責任者に申請する行為。
+　　　　　　　　　　　　　　　　衆目に晒されることを前提とする。（システムへ）「貢献」する行為である。
 
 <> code ---> Contribute(貢献) ---> Open pull request --->  Creat pull request　
  
